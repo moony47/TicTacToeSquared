@@ -1,0 +1,7 @@
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\TicTacToeSquared\TicTacToeSquared\bin\Release\TicTacToeSquared.exe.config
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\TicTacToeSquared\TicTacToeSquared\bin\Release\TicTacToeSquared.exe
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\TicTacToeSquared\TicTacToeSquared\obj\Release\TicTacToeSquared.csproj.AssemblyReference.cache
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\TicTacToeSquared\TicTacToeSquared\obj\Release\TicTacToeSquared.MainForm.resources
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\TicTacToeSquared\TicTacToeSquared\obj\Release\TicTacToeSquared.csproj.GenerateResource.cache
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\TicTacToeSquared\TicTacToeSquared\obj\Release\TicTacToeSquared.csproj.CoreCompileInputs.cache
+C:\Users\sfmoo\OneDrive\Documents\OneDriveDocuments\Programs\SharpDevelop Projects\TicTacToeSquared\TicTacToeSquared\obj\Release\TicTacToeSquared.exe
